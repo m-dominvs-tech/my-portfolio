@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "FlowDesk",
+    "description": "FlowDesk es una aplicación de escritorio para la gestión de tareas y proyectos, diseñada para mejorar la productividad y la colaboración en equipos de trabajo.",
+    "tags": ["Vue.js", "TypeScript", "Firebase"],
+    "category": "Frontend",
+    "imageKey": "flowdesk",
+    "demo": "https://flowdesk-demo.example.com",
+    "repo": "https://github.com/usuario/flowdesk",
+    "featured": true,
+    "status": "Deployado"
+  },
+  {
+    "id": 2,
+    "title": "E-commerce Platform",
+    "description": "Plataforma de comercio electrónico completa con panel de administración, pasarela de pagos y gestión de inventario.",
+    "tags": ["Vue.js", "Node.js", "PostgreSQL", "Stripe"],
+    "category": "Full Stack",
+    "imageKey": "shoppingCart",
+    "demo": "",
+    "repo": "https://github.com/usuario/ecommerce-platform",
+    "status": "En desarrollo"
+  },
+  {
+    "id": 3,
+    "title": "Task Management App",
+    "description": "Aplicación de gestión de tareas con arrastrar y soltar, notificaciones en tiempo real y colaboración en equipo.",
+    "tags": ["React", "TypeScript", "Firebase", "Redux"],
+    "category": "Frontend",
+    "imageKey": "gauge",
+    "demo": "https://taskapp.example.com",
+    "repo": "https://github.com/usuario/task-management-app",
+    "status": "Deployado"
+  },
+  {
+    "id": 4,
+    "title": "Portafolio Generator",
+    "description": "Herramienta para generar portafolios personalizados con múltiples plantillas y exportación a PDF.",
+    "tags": ["Vue.js", "Nuxt", "PDFKit", "Tailwind"],
+    "category": "Frontend",
+    "imageKey": "portfolio",
+    "demo": "",
+    "repo": "",
+    "status": "Privado"
+  },
+  {
+    "id": 5,
+    "title": "REST API Dashboard",
+    "description": "Dashboard administrativo con métricas en tiempo real, gestión de usuarios y análisis de datos.",
+    "tags": ["React", "Express", "MongoDB", "Chart.js"],
+    "category": "Full Stack",
+    "imageKey": "dashboard",
+    "demo": "https://dashboard.example.com",
+    "repo": "https://github.com/usuario/rest-api-dashboard",
+    "status": "Deployado"
+  },
+  {
+    "id": 6,
+    "title": "Real-time Chat App",
+    "description": "Aplicación de mensajería con salas privadas, emojis, archivos y notificaciones push.",
+    "tags": ["Node.js", "Socket.io", "MongoDB", "AWS S3"],
+    "category": "Backend",
+    "imageKey": "chat",
+    "demo": "",
+    "repo": "https://github.com/usuario/realtime-chat-app",
+    "status": "En desarrollo"
+  },
+  {
+    "id": 7,
+    "title": "Mobile Fitness Tracker",
+    "description": "App móvil para seguimiento de ejercicios, nutrición y metas personales con sincronización en la nube.",
+    "tags": ["React Native", "Expo", "GraphQL", "AWS"],
+    "category": "Mobile",
+    "imageKey": "activity",
+    "demo": "https://fitness.example.com",
+    "repo": "",
+    "status": "Deployado"
+  }
+]
